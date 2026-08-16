@@ -53,4 +53,5 @@
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Anasahmad83400/sql-practice/tree/master/1068-product-sales-analysis-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anasahmad83400/sql-practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
