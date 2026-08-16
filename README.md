@@ -47,3 +47,10 @@
 *Last updated: 2026-08-16* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Anasahmad83400/sql-practice/tree/master/1068-product-sales-analysis-i) |
+<!---LeetCode Topics End-->
