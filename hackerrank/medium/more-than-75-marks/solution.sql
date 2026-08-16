@@ -1,5 +1,7 @@
 /*
 Enter your query here.
 */
-select distinct(city) from station 
-where city not REGEXP '^[aeiou]' and   CITY NOT REGEXP '[aeiou]$';
+select name from students 
+where marks > 75 
+ 
+order by RIGHT(Name, 3), id
