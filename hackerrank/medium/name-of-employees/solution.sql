@@ -1,5 +1,7 @@
 /*
 Enter your query here.
 */
-select name from employee
-order by name 
+select name from students 
+where marks > 75 
+ 
+order by RIGHT(Name, 3), id
