@@ -47,3 +47,10 @@
 *Last updated: 2026-08-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Anasahmad83400/Leetcode-hackerrank-sql-practice/tree/master/1280-students-and-examinations) |
+<!---LeetCode Topics End-->
