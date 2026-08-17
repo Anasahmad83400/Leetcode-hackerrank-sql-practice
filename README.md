@@ -2,9 +2,9 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-10-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-16--08--2026-green?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-15-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-17--08--2026-green?style=for-the-badge)
 
 > 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **10** |
+| 🟢 Easy | **3** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **0** |
-| **Total** | **10** |
+| **Total** | **15** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| SQL | **10** |
+| SQL | **15** |
 
 ## 📂 Repository Structure
 
@@ -44,14 +44,6 @@
 
 <div align="center">
 
-*Last updated: 2026-08-16* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-08-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1068-product-sales-analysis-i](https://github.com/Anasahmad83400/sql-practice/tree/master/1068-product-sales-analysis-i) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anasahmad83400/sql-practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-<!---LeetCode Topics End-->
