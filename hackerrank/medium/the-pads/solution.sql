@@ -1,6 +1,11 @@
 /*
 Enter your query here.
 */
-select name from employee 
-where salary > 2000 and months < 10
-order by employee_id
+select
+    case
+        when (a+b <= c) or (a+c <= b) or (b+c <= a) then "Not A Triangle"
+        when a=b and b=c then "Equilateral"
+        when a=b or b=c or a=c then "Isosceles"
+        else "Scalene"
+    end
+from TRIANGLES;
