@@ -47,3 +47,10 @@
 *Last updated: 2026-08-18* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Anasahmad83400/Leetcode-hackerrank-sql-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
+<!---LeetCode Topics End-->
