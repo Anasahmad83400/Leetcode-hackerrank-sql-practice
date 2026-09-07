@@ -47,3 +47,10 @@
 *Last updated: 2026-08-24* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Anasahmad83400/Leetcode-hackerrank-sql-practice/tree/master/0620-not-boring-movies) |
+<!---LeetCode Topics End-->
